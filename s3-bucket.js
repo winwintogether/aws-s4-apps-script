@@ -178,6 +178,6 @@ const AWS = (function (){
 
 function deleteBucket(){
   AWS.init('your_access_key', 'your_secret_key');
-  let response = AWS.request('s3', 'DeleteBucket', null, 'us-east-1', 'DELETE', null, null, null, 'winintelligence1');
+  let response = AWS.request('s3', 'DeleteBucket', null, 'us-east-1', 'DELETE', null, null, null, 'winwintogether');
   Logger.log(response);
 }
