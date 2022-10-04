@@ -172,7 +172,7 @@ const AWS = (function (){
 
 // function createBucket() {
 //   AWS.init('your_access_key', 'your_secret_key');
-//   let response = AWS.request('s3', 'CreateBucket',  null, 'us-east-1', 'PUT', null, null, null, 'winintelligence1');
+//   let response = AWS.request('s3', 'CreateBucket',  null, 'us-east-1', 'PUT', null, null, null, 'winwintogether');
 //   Logger.log(response);
 // }
 
